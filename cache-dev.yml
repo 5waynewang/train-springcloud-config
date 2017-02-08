@@ -1,3 +1,4 @@
 redis:
-  host: 127.0.0.1
-  port: 6379
+  masterName: test6379
+  address: 10.165.125.41:26379
+  password: 1cx!zOUjOmfx
