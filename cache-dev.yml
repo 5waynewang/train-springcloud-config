@@ -1,4 +1,0 @@
-redis:
-  masterName: test6379
-  address: 10.165.125.41:26379
-  password: 1cx!zOUjOmfx
